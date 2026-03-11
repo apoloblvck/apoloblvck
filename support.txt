@@ -1,0 +1,5 @@
+bitcoin: bc1qsvrzlrs4c7qx6jg7c0rdvkawywn4tg77x5v9zl
+ethereum: 0xac34f0B5ab90Be8E91A441472aCd33b5e793b67c
+polygon: 0xac34f0B5ab90Be8E91A441472aCd33b5e793b67c
+solana: 8tfVwhCDggPnmy954AU5eTDbn9cSmTcQP9Dfn5XPo82L
+bnb: 0xac34f0B5ab90Be8E91A441472aCd33b5e793b67c
