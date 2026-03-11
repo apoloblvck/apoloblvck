@@ -4,4 +4,4 @@
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-red?style=flat-square&logo=Reddit&logoColor=white)](https://www.reddit.com/u/apoloblvck)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://www.t.me/apoloblvck)
 
-You can [donate](https://github.com/apoloblvck/apoloblvck/blob/main/support.txt) or contribute to any of my projects! 💻🔥
+Be part of the mission. [Donate](https://github.com/apoloblvck/apoloblvck/blob/main/support.txt) or contribute to any of my projects! 💻🔥
